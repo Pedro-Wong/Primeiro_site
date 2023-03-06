@@ -15,6 +15,7 @@ main{
 /*banner*/
  #section-banner img{
    height: 500px;
+   margin: 20px;
 } 
 
 /*vendidos*/
@@ -58,6 +59,7 @@ main{
 
  #perifericos-banner img{
    height: 500px;
+   margin: 20px;
    
  }
 
@@ -79,6 +81,7 @@ main{
 
  #jogos-banner img{
    height: 500px;
+   margin: 20px;
 
  }
  #jogos-eletronicos p{
@@ -110,6 +113,7 @@ main{
 
  #hardware-banner img{
   height: 500px;
+  margin: 20px;
  }
 
  #titulo-hardware{
