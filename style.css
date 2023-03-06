@@ -1,0 +1,166 @@
+
+/*cabeçalho*/
+.logoHome{
+   height: 100px;
+   width: 100px;
+}
+
+ 
+/*conteúdo principal*/
+main{
+    min-height: 500px;
+ }
+ 
+
+/*banner*/
+ #section-banner img{
+   height: 500px;
+} 
+
+/*vendidos*/
+#section-vendidos{
+   text-align: center;
+}
+
+#section-vendidos h2{
+   font-weight: bold;
+   padding: 20px;
+}
+
+#section-vendidos .card{
+   margin: 5px;
+   border: 1px solid #DCDCDC;
+   border-radius: 3px;
+}
+
+#section-vendidos .preco{
+   font-weight: bold;
+   border: 1px;
+}
+
+#section-vendidos img{
+   height: 300px;
+}
+
+
+ /* Rodapé*/
+ .footerHome{
+    text-align: center;
+    background-color: #DCDCDC;
+ }
+
+ .footerHome p{
+    font-weight: bold;
+    padding: 10px;
+ }
+
+ /*perifericos*/
+
+ #perifericos-banner img{
+   height: 500px;
+   
+ }
+
+ #perifericos-produtos{
+   text-align: center;
+   margin: 5px;
+ }
+
+ #perifericos-produtos p{
+   font-weight: bold;
+ }
+
+ .footerPerifericos{
+   text-align: center;
+   background-color: #DCDCDC;
+ }
+
+ /*Jogos*/
+
+ #jogos-banner img{
+   height: 500px;
+
+ }
+ #jogos-eletronicos p{
+   font-weight: bold;
+   margin:5px;
+   padding: 3px;
+
+ }
+ #jogos-eletronicos{
+   text-align: center;
+
+ }
+
+ #jogos-eletronicos img{
+   height: 350px;
+   
+ }
+
+ #titulo{
+   text-align: center;
+ }
+
+ #footerJogos{
+   background-color: #DCDCDC;
+   text-align: center;
+ }
+
+ /*Hardware*/
+
+ #hardware-banner img{
+  height: 500px;
+ }
+
+ #titulo-hardware{
+  text-align: center;
+ }
+
+ #card-hardware{
+  text-align: center;
+  font-weight: bold;
+ }
+
+ #footerHardware{
+  background-color: #DCDCDC;
+  text-align: center;
+ }
+
+ 
+
+
+ /*botao voltar ao topo*/
+
+ #voltar-topo{
+  position:fixed;
+  bottom:5px;
+  right: 50px;
+ }
+
+ /*pagina de login*/
+
+#section-login{
+  margin-top: 100px;
+}
+
+ #section-login h1{
+  text-align: center;
+ }
+
+ #section-login input{
+  width: 100%;
+ }
+
+ /*formulario*/
+
+ #section-cadastro{
+  text-align: center;
+  padding: 5px;
+  background-color:#fff;
+
+ }
+
+ #form-cadastrar{
+  padding: 50px;
+  display: none;
+ }
